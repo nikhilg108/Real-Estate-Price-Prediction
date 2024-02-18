@@ -26,7 +26,7 @@ Real Estate Price Prediction Kaggle Competition
  7. Model uploaded here is a WIP version comprising of 14 sections. Key features of model are descriptive and visual analysis, feature engineering and XGB Regressor.Each individual
 section comprises of changes on training data followed by replication on testing data wherever applicable. 
  
- 8. Section 1 : Comprises of importing packaged for the model
+ 8. Section 1 : Comprises of importing packages for the model
  
  9. Section 2: Import data and basic checks on imported data
  
